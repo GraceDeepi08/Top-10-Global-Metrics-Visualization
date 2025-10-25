@@ -53,8 +53,8 @@ Feel free to fork and submit pull requests! Ideas:
 ## 📄 License
 This project is open-source under the [MIT License](LICENSE). Feel free to use and adapt.
 
-## 👋 Contact
-Built by [GraceDeepi08](https://github.com/GraceDeepi08).
+## Built by [GraceDeepi08](https://github.com/GraceDeepi08).
+
 
 ---
 
